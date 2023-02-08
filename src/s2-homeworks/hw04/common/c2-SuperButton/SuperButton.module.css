@@ -1,25 +1,58 @@
 .button {
+    width: 132px;
+    height: 30px;
+    color: #FFFFFF;
+    background: #0066CC;
+    border-radius: 3px;
+    cursor: pointer;
 }
 
 .disabled {
+    width: 132px;
+    height: 30px;
+    color: #002E5C;;
+    background: #004D99;
+    opacity: 0.5;
+    border-radius: 3px;
 }
 
 .secondary {
+    width: 132px;
+    height: 30px;
+    color: #0066CC;
+    border: 1px solid #0066CC;
+    border-radius: 3px;
+    cursor: pointer;
 }
 
 .default {
+    width: 132px;
+    height: 30px;
+    color: #FFFFFF;
+    background: #0066CC;
+    border-radius: 3px;
+    cursor: pointer;
 }
 
 .red {
+    width: 132px;
+    height: 30px;
+    color: #FFFFFF;
+    background: #CC1439;
+    border-radius: 3px;
+    cursor: pointer;
 }
 
 .default:hover {
+    width: 167px;
 }
 
 .red:hover {
+    width: 167px;
 }
 
 .secondary:hover {
+    width: 167px;
 }
 
 
