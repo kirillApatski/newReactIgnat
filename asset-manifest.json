@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/newReactIgnat/static/css/main.525b4fce.css",
-    "main.js": "/newReactIgnat/static/js/main.0504aa26.js",
+    "main.css": "/newReactIgnat/static/css/main.1d4e612b.css",
+    "main.js": "/newReactIgnat/static/js/main.12b7a47e.js",
     "static/js/787.b10b4ad6.chunk.js": "/newReactIgnat/static/js/787.b10b4ad6.chunk.js",
     "static/media/avatar.png": "/newReactIgnat/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/checked.svg": "/newReactIgnat/static/media/checked.b75ca55e8759862b4083.svg",
     "index.html": "/newReactIgnat/index.html",
-    "main.525b4fce.css.map": "/newReactIgnat/static/css/main.525b4fce.css.map",
-    "main.0504aa26.js.map": "/newReactIgnat/static/js/main.0504aa26.js.map",
+    "main.1d4e612b.css.map": "/newReactIgnat/static/css/main.1d4e612b.css.map",
+    "main.12b7a47e.js.map": "/newReactIgnat/static/js/main.12b7a47e.js.map",
     "787.b10b4ad6.chunk.js.map": "/newReactIgnat/static/js/787.b10b4ad6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.525b4fce.css",
-    "static/js/main.0504aa26.js"
+    "static/css/main.1d4e612b.css",
+    "static/js/main.12b7a47e.js"
   ]
 }
