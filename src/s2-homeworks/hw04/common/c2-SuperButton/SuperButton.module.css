@@ -20,18 +20,13 @@
     width: 132px;
     height: 30px;
     color: #0066CC;
-    border: 1px solid #0066CC;
-    border-radius: 3px;
+    background: #FFFFFF;
     cursor: pointer;
 }
 
 .default {
-    width: 132px;
-    height: 30px;
-    color: #FFFFFF;
     background: #0066CC;
-    border-radius: 3px;
-    cursor: pointer;
+    color: #FFFFFF;
 }
 
 .red {
@@ -44,19 +39,20 @@
 }
 
 .default:hover {
-    width: 167px;
+    opacity: .5;
 }
 
 .red:hover {
-    width: 167px;
+    opacity: .5;
 }
 
 .secondary:hover {
-    width: 167px;
+    opacity: .5;
 }
 
 
 .default:active {
+    opacity: .5;
 }
 
 .secondary:active {
