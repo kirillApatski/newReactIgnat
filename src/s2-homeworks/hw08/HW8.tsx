@@ -40,13 +40,13 @@ const HW8 = () => {
 
     const sortDown = () => {
         setPeople(
-            homeWorkReducer(initialPeople, {type: 'sort', payload: 'down'})
+            homeWorkReducer(initialPeople, {type: 'sort', payload: 'down'} as const)
         ) // в обратном порядке a.name < b.name}
         setCurrentSort('down')
     }
     const check18 = () => {
         setPeople(
-            homeWorkReducer(initialPeople, {type: 'check', payload: 18})
+            homeWorkReducer(initialPeople, {type: 'check', payload: 18} as const)
         ) // совершеннолетние
         setCurrentSort('18')
     }
